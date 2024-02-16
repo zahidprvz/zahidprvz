@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Flutter, Deep Learning, DSA**
 - 💬 Ask me about **.NET, Java, OOPs, Databases, Robotics**
 - 📫 How to reach me **pervaizzahid55@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.github.com/zahidparviz**
+- 👨‍💻 All of my projects are available at **https://www.github.com/zahidprvz**
 - My Portfolio Website **https://zahidprvz.github.io/zahid/**
 - 📄 Know about my experiences **www.linkedin.com/in/zahidprvz**
 - ⚡ Fun fact **I love to play flute**
