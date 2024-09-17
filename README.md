@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Parviz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate mobile app developer & ai researcher from planet Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidprvz&label=Profile%20views&color=0e75b6&style=flat" alt="zahidprvz" /> </p>
 
