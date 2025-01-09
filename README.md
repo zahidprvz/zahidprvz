@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Parviz</h1>
-<h3 align="center">A passionate mobile app developer & ai researcher from planet Earth</h3>
+<h3 align="center">A passionate computer scientist & ai researcher from planet Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidprvz&label=Profile%20views&color=0e75b6&style=flat" alt="zahidprvz" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Health Colon Cancer App](https://github.com/zahidprvz/hcq)
 
-- 🌱 I’m currently learning **Flutter, Deep Learning, and Data Structures & Algorithms**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Tacotron 2 Deep Learning Model**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Portfolio](https://zahidparvizweb.vercel.app/)
 
-- 💬 Ask me about **Robotics, Flutter, Mobile App Dev, iOS development, Artificial Intelligence**
+- 💬 Ask me about **Robotics, Flutter, Mobile App Dev, .NET development, Artificial Intelligence**
 
 - 📫 How to reach me **pervaizzahid55@gmail.com**
 
